@@ -1,6 +1,6 @@
-# **A simple tutorial on how to use markdown to write a resume**
+# **A Simple Tutorial On How To Use Markdown To Write A Resume**
 
-## **PURPOSE**
+## **Purpose**
 
 1.  A step-by-step tutorial on how to use markdown to write and format and
     publish your resume on GitHub.
