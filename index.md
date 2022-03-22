@@ -16,7 +16,7 @@ Computer Science
 
 University of Manitoba
 
-2019-2022
+2019-Present
 
 Winnipeg, MB
 
