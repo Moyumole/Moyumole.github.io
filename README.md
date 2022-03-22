@@ -34,6 +34,8 @@
 
     -   Write your resume in Markdown
 
+    ![Theme](https://imgur.com/a/5sBbM7E)
+
 -   More Resources
 
 1.  [Step by step Markdown tutorial](https://www.markdowntutorial.com/)
