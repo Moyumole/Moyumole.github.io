@@ -34,7 +34,7 @@
 
     -   Write your resume in Markdown
 
-    !(https://imgur.com/a/5sBbM7E)
+    ![alt text](https://imgur.com/a/5sBbM7E)
 
 -   More Resources
 
