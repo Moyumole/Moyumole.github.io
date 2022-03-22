@@ -1,2 +1,0 @@
-# Moyumole.github.io
-Resume
