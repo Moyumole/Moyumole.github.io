@@ -48,9 +48,9 @@
 
 Author: Steven Zhang
 
-Group 7
+Group 7 COMP 3040 😏
 
-## **FAQs**
+## **FAQs ❓**
 
 ### Why is Markdown better than a word processor?
 
@@ -62,7 +62,7 @@ faster and easier to write. The second is that it can be read directly without
 the interference of various HTML tags. The syntax is simple, can be written
 quickly, and can be read directly. These are the advantages of Markdown.
 
-### Cannot install Jekyll?
+### Cannot install Jekyll? 
 
 If you have problems installing jeykell you can visit their
 [homepage](https://jekyllrb.com/docs/troubleshooting/) for answers.
