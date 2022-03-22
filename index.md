@@ -30,7 +30,7 @@ Winnipeg, MB
 
 -   HTML/CSS
 
--   Unreal Engine 4/5
+-   Unreal Engine 4 and Unreal Engine 5
 
 -   Reality Capture
 
