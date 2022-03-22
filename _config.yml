@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
-title: Resume
+title: My Resume
+description: my resume written in Markdown
+show_downloads: false
