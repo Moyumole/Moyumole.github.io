@@ -55,7 +55,7 @@ Carnegie Mellon University - Online
 
 ### Medieval village game scene design
 
-### A simple medieval village game scene and a simple cutscene were created using Unreal Engine 5 and assets from the Unreal Marketplace. The scene supports ray tracing and a full sun-moon cycle system. At the same time, the new global foliage system provided by Unreal 5 is used to simulate the real foliage physics.
+A simple medieval village game scene and a simple cutscene were created using Unreal Engine 5 and assets from the Unreal Marketplace. The scene supports ray tracing and a full sun-moon cycle system. At the same time, the new global foliage system provided by Unreal 5 is used to simulate the real foliage physics.
 
 ### Gundam 3D model scanning and modeling
 
