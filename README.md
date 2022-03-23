@@ -1,9 +1,9 @@
-# **A Simple Tutorial On How To Use Markdown To Write A Resume**
+# **A Simple Tutorial on How to Format and Host Your Resume on GitHub**
 
 ## **Purpose**
 
 1.  A step-by-step tutorial on how to use markdown to write and format and
-    publish your resume on GitHub.
+    host your resume on GitHub.
 
 2.  How to actually use the technical writing principles in Andrew Etter's book
     to refine your resume.
@@ -15,6 +15,8 @@
 -   A resume written in Markdown
 
 -   Jekyll installed
+
+-   Dillinger or any Markdown editor you prefer
 
 ## **Instructions**
 
