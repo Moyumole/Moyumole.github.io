@@ -1,14 +1,14 @@
-# **Steven Zhang**
+# Steven Zhang
 
-## **Contact**
+## Contact
 
-<zyy1764195262@gmail.com>
+[zyy1764195262@gmail.com](mailto:zyy1764195262@gmail.com)
 
 (431)388-5022
 
-Winnipeg,MB
+Winnipeg, MB
 
-## **Education**
+## Education
 
 B.S.
 
@@ -16,11 +16,11 @@ Computer Science
 
 University of Manitoba
 
-2019-Present
+2019-2022
 
 Winnipeg, MB
 
-## **Skills**
+## Skills
 
 -   C
 
@@ -30,17 +30,17 @@ Winnipeg, MB
 
 -   HTML/CSS
 
--   Unreal Engine 4 and Unreal Engine 5
+-   Unreal Engine 5
 
 -   Reality Capture
 
-## **CAREER OBJECTIVE**
+## CAREER OBJECTIVE
 
 As a university computer student, I hope to be engaged in game design and image
 processing in the future. I hope to join Ubisoft as a trainee model designer and
 graphic engineer.
 
-## **EXPERIENCE**
+## EXPERIENCE
 
 Student Researcher – 2021 August to October
 
@@ -51,11 +51,15 @@ Carnegie Mellon University - Online
     leadership of the professor, I and the team members designed a real estate
     information statistics and housing price trend prediction program.
 
-## **PROJECTS**
+## PROJECTS
 
 ### Medieval village game scene design
 
-A simple medieval village game scene and a simple cutscene were created using Unreal Engine 5 and assets from the Unreal Marketplace. The scene supports ray tracing and a full sun-moon cycle system. At the same time, the new global foliage system provided by Unreal 5 is used to simulate the real foliage physics.
+A simple medieval village game scene and a simple cutscene were created using
+Unreal Engine 5 and assets from the Unreal Marketplace. The scene supports ray
+tracing and a full sun-moon cycle system. At the same time, the new global
+foliage system provided by Unreal 5 is used to simulate the real foliage
+physics.
 
 ### Gundam 3D model scanning and modeling
 
