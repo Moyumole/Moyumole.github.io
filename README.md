@@ -43,13 +43,15 @@ process everything into a working website.
 2.  Click the plus sign in the upper right corner of the page and select the
     "New repository" in the drop-down menu
 
-    ![](media/52b1b155deb111efdb98609e58000f0e.png)
+    ![](https://i.imgur.com/hrv7dxC.png)
 
 3.  Enter *username.github.io*(*username* is your GitHub account name) in
-    "Repository name" ![](media/13fc3ead402f5bbcc95676a3b508eded.png)
+    "Repository name" 
+    ![](https://i.imgur.com/pU00lLP.png)
 
 4.  Set your repository to public. You can also choose to automatically add a
-    "README" file![](media/fafae50c90d40e6be5588413bf6cd317.png)
+    "README" file
+    ![](https://i.imgur.com/KuwJhAY.png)
 
 5.  Click the green "Create repository" button after completing the above steps
 
@@ -68,17 +70,17 @@ need to write and maintain resumes.
 
 1.  Click on the repository you just created on your GitHub homepage
 
-![](media/1de7fceb09ef0cfd48466dec03195e49.png)
+![](https://i.imgur.com/Gl5JRvg.png)
 
-1.  Click "Add file" at the top of the page and select "Upload files" from the
+2.  Click "Add file" at the top of the page and select "Upload files" from the
     drop-down menu
 
-![](media/aa4dd3aec0cd4da7ede0579267e6806d.png)
+![](https://i.imgur.com/v8Czl79.png)
 
-1.  Select your resume and name it "*index.md*" then click the green "Commit
+3.  Select your resume and name it "*index.md*" then click the green "Commit
     changes" button below
 
-    ![](media/b19f0bd5d22be6ee8523515236f340ec.png)
+![](https://i.imgur.com/JNuiLS0.png)
 
 ### Use a static site generator to create beautiful documentation websites.
 
@@ -95,36 +97,39 @@ appropriate theme really matters.
 -   **Choose a Theme for Your Website**
 
     1.  Select the "Settings" button on the top right in your
-        repository![](media/a83b89a855c9359a0be87cafbb975e2b.png)
+        repository
+        ![](https://i.imgur.com/QJsqSRg.png)
 
-        1.  Select the "Pages" button below the menu on the left side of the
-            page
+    2.  Select the "Pages" button below the menu on the left side of the
+        page
 
-            ![](media/7abc79be10bd1d3d32babee3f325e196.png)
+        ![](https://i.imgur.com/rki27C1.png)
 
-        2.  Select "Change theme"
+    3.  Select "Change theme"
 
-            ![](media/bf2e834754b71303f8232aa108ecf3dc.png)
+        ![](https://i.imgur.com/tKftGUd.png)
 
-        3.  Click "Select theme" after selecting the appropriate theme
+    4.  Click "Select theme" after selecting the appropriate theme
 
-            ![](media/713ec43a086ff58b6e0278844c0d6548.png)
+        ![](https://i.imgur.com/j6Mjr8y.png)
 
 -   **Add a Config File**
 
     1.  Click "Add file" at the top of the page and select "Create new file"
-        from the drop-down menu![](media/8661638d55084731223fb06aa9962527.png)
+        from the drop-down menu
+        ![](https://i.imgur.com/VSQPsH6.png)
 
-        1.  Name your document *"_config.yml*". This file will be where you
-            customize the theme
-            later.![](media/caee0b65aa1ae42aa42f9b2d37974686.png)
+    2.  Name your document *"_config.yml*". This file will be where you
+        customize the theme
+        later.
+        ![](https://i.imgur.com/dWFod6t.png)
 
-        2.  Different themes may have many different customizable options, I
-            recommend reading the corresponding theme's README file for the
-            relevant instructions. In this example we use the midnight theme,
-            they have a very detailed
-            [README](https://github.com/pages-themes/midnight/blob/master/README.md)
-            file to guide you on how to customize your page.
+    3.  Different themes may have many different customizable options, I
+        recommend reading the corresponding theme's README file for the
+        relevant instructions. In this example we use the midnight theme,
+        they have a very detailed
+        [README](https://github.com/pages-themes/midnight/blob/master/README.md)
+        file to guide you on how to customize your page.
 
 ### How do I view my own static website?
 
