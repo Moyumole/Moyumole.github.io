@@ -72,7 +72,7 @@ Winnipeg, MB
 
 ## EXPERIENCE
 
-Currently do not 
+#NA 
 
 ## PROJECTS
 
